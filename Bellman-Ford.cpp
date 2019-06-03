@@ -1,4 +1,3 @@
-// Ton tai loi
 
 #include <iostream>
 #include <iomanip>
